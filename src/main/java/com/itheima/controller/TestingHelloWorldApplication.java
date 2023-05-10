@@ -18,7 +18,7 @@ public class TestingHelloWorldApplication {
     @GetMapping("")
     public String hello(){
         System.out.println("hello world66...");
-        return "OK66";
+        return "OK667";
     }
 
 
